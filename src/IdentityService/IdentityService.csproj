@@ -27,6 +27,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="Pages\Account\Register\" />
+	  <Folder Include="ViewModels\" />
 	</ItemGroup>
 </Project>
